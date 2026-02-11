@@ -40,9 +40,9 @@ A full-stack mapping application with interactive geospatial features.
 
 ## Let's Connect
 
+Currently seeking opportunities to contribute to forward-thinking teams, building meaningful products, and continuing my growth as a developer. If you're building something impactful, I'd love to connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinjabrica/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.jabrica@shaw.ca)
 
 ---
-
-*Currently seeking opportunities to contribute to forward-thinking teams, building meaningful products, and continuing my growth as a developer. If you're building something impactful, I'd love to connect!*
